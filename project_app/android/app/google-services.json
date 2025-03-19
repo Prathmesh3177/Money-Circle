@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089793480839",
+    "project_id": "money-cricle",
+    "storage_bucket": "money-cricle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089793480839:android:ddd6e8f5d14f27bb3e4022",
+        "android_client_info": {
+          "package_name": "com.example.project_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJEnmXU4jhu3PDxk_-toDk476WUbjTV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
